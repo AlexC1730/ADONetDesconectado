@@ -1,0 +1,12 @@
+C:\Users\chris\Documents\carpeta de DESARROLLO DE SOLUCIONES EMPRESARIALES\AdoNetDesconectado\bin\Debug\AdoNetDesconectado.exe.config
+C:\Users\chris\Documents\carpeta de DESARROLLO DE SOLUCIONES EMPRESARIALES\AdoNetDesconectado\bin\Debug\AdoNetDesconectado.exe
+C:\Users\chris\Documents\carpeta de DESARROLLO DE SOLUCIONES EMPRESARIALES\AdoNetDesconectado\bin\Debug\AdoNetDesconectado.pdb
+C:\Users\chris\Documents\carpeta de DESARROLLO DE SOLUCIONES EMPRESARIALES\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\carpeta de DESARROLLO DE SOLUCIONES EMPRESARIALES\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\Documents\carpeta de DESARROLLO DE SOLUCIONES EMPRESARIALES\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.FrmTipoCliente.resources
+C:\Users\chris\Documents\carpeta de DESARROLLO DE SOLUCIONES EMPRESARIALES\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.Properties.Resources.resources
+C:\Users\chris\Documents\carpeta de DESARROLLO DE SOLUCIONES EMPRESARIALES\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.csproj.GenerateResource.cache
+C:\Users\chris\Documents\carpeta de DESARROLLO DE SOLUCIONES EMPRESARIALES\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\carpeta de DESARROLLO DE SOLUCIONES EMPRESARIALES\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.exe
+C:\Users\chris\Documents\carpeta de DESARROLLO DE SOLUCIONES EMPRESARIALES\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.pdb
+C:\Users\chris\Documents\carpeta de DESARROLLO DE SOLUCIONES EMPRESARIALES\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.FrmTipoClienteEdit.resources
